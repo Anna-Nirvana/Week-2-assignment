@@ -1,4 +1,4 @@
-# Week-1-assignment
+# Week-2-assignment
 
 ## Coding assignment
 Use this repository as your starter files.
